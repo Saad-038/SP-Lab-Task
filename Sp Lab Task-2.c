@@ -1,4 +1,4 @@
-// program that takes a year as input and checks whether it is a leap year or not using if-else conditions
+// Write a program that takes a year as input and checks whether it is a leap year or not using if-else conditions
 #include<stdio.h>
 int main()
 {
