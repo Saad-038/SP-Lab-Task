@@ -1,4 +1,4 @@
-// finding the largest of three numbers using nested if-else conditions.
+// Write a C program to find the largest of three numbers using nested if-else conditions
 #include<stdio.h>
 int main()
 {
