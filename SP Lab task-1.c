@@ -10,9 +10,11 @@ int main()
        printf("%d is even\n",num);
 
        else
-       printf("d is odd\n",num);
+       printf("%d is odd\n",num);
 
        return 0;
 
 }
+
+
 
