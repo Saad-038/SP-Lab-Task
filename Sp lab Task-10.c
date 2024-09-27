@@ -1,0 +1,17 @@
+//Write a program to calculate the factorial of a number using a while loop
+#include<stdio.h>
+int main()
+{
+    int num, i=1, fact =1;
+    printf("enter a number to find factorial\n");
+    scanf("%d", &num);
+
+    while(i<=num)
+    {
+        fact=fact*i;
+    }
+    printf("Factorial of %d is %d\n", num, fact);
+    return 0;
+}
+
+
