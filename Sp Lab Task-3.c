@@ -8,7 +8,7 @@ int main()
 
      if (a>=b)
         {
-        if (a>=b)
+        if (a>=c)
         {
             printf("Largest number is = %d\n", a);
         }
